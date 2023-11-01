@@ -1,4 +1,4 @@
-FROM node:19.4.0-bullseye-slim
+FROM node:20.9.0-alpine3.18
 
 MAINTAINER "Daniel Garcia aka (cr0hn)" <cr0hn@cr0hn.com>
 
