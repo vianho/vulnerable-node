@@ -1,4 +1,4 @@
-FROM node:20.9.0-alpine3.18
+FROM node:lts-alpine3.18
 
 MAINTAINER "Daniel Garcia aka (cr0hn)" <cr0hn@cr0hn.com>
 
