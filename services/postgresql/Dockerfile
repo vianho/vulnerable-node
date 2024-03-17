@@ -1,4 +1,4 @@
-FROM postgres:15.4-alpine3.18
+FROM postgres:15.6-alpine3.18
 
 MAINTAINER "Daniel Garcia aka (cr0hn)" <cr0hn@cr0hn.com>
 
